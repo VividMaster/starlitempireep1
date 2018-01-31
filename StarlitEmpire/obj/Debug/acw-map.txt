@@ -1,0 +1,8 @@
+StarlitEmpire.MainActivity, StarlitEmpire;md5c2a739b7e95e587e73e1e7528c62c26a.MainActivity
+StarlitEmpire.MainActivity, StarlitEmpire, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c2a739b7e95e587e73e1e7528c62c26a.MainActivity
+StarlitEmpire.MainActivity;md5c2a739b7e95e587e73e1e7528c62c26a.MainActivity
+starlitempire.MainActivity;md5c2a739b7e95e587e73e1e7528c62c26a.MainActivity
+StarlitEmpire.GLView1, StarlitEmpire;md5c2a739b7e95e587e73e1e7528c62c26a.GLView1
+StarlitEmpire.GLView1, StarlitEmpire, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c2a739b7e95e587e73e1e7528c62c26a.GLView1
+StarlitEmpire.GLView1;md5c2a739b7e95e587e73e1e7528c62c26a.GLView1
+starlitempire.GLView1;md5c2a739b7e95e587e73e1e7528c62c26a.GLView1

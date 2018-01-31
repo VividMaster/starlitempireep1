@@ -1,0 +1,9 @@
+C:\AndroidProjects\StarlitEmpire1\starlitempireep1\StarEdit\StarEditor\bin\Debug\StarEditor.exe.config
+C:\AndroidProjects\StarlitEmpire1\starlitempireep1\StarEdit\StarEditor\bin\Debug\StarEditor.exe
+C:\AndroidProjects\StarlitEmpire1\starlitempireep1\StarEdit\StarEditor\bin\Debug\StarEditor.pdb
+C:\AndroidProjects\StarlitEmpire1\starlitempireep1\StarEdit\StarEditor\obj\Debug\StarEditor.csprojResolveAssemblyReference.cache
+C:\AndroidProjects\StarlitEmpire1\starlitempireep1\StarEdit\StarEditor\obj\Debug\StarEditor.Properties.Resources.resources
+C:\AndroidProjects\StarlitEmpire1\starlitempireep1\StarEdit\StarEditor\obj\Debug\StarEditor.csproj.GenerateResource.Cache
+C:\AndroidProjects\StarlitEmpire1\starlitempireep1\StarEdit\StarEditor\obj\Debug\StarEditor.csproj.CoreCompileInputs.cache
+C:\AndroidProjects\StarlitEmpire1\starlitempireep1\StarEdit\StarEditor\obj\Debug\StarEditor.exe
+C:\AndroidProjects\StarlitEmpire1\starlitempireep1\StarEdit\StarEditor\obj\Debug\StarEditor.pdb
