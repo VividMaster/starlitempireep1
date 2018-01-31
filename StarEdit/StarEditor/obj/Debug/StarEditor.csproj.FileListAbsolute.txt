@@ -7,3 +7,5 @@ C:\AndroidProjects\StarlitEmpire1\starlitempireep1\StarEdit\StarEditor\obj\Debug
 C:\AndroidProjects\StarlitEmpire1\starlitempireep1\StarEdit\StarEditor\obj\Debug\StarEditor.csproj.CoreCompileInputs.cache
 C:\AndroidProjects\StarlitEmpire1\starlitempireep1\StarEdit\StarEditor\obj\Debug\StarEditor.exe
 C:\AndroidProjects\StarlitEmpire1\starlitempireep1\StarEdit\StarEditor\obj\Debug\StarEditor.pdb
+C:\AndroidProjects\StarlitEmpire1\starlitempireep1\StarEdit\StarEditor\obj\Debug\StarEditor.StarEdit.resources
+C:\AndroidProjects\StarlitEmpire1\starlitempireep1\StarEdit\StarEditor\obj\Debug\StarEditor.NewProject.resources
