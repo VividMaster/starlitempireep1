@@ -9,3 +9,4 @@ C:\AndroidProjects\StarlitEmpire1\starlitempireep1\StarEdit\StarEditor\obj\Debug
 C:\AndroidProjects\StarlitEmpire1\starlitempireep1\StarEdit\StarEditor\obj\Debug\StarEditor.pdb
 C:\AndroidProjects\StarlitEmpire1\starlitempireep1\StarEdit\StarEditor\obj\Debug\StarEditor.StarEdit.resources
 C:\AndroidProjects\StarlitEmpire1\starlitempireep1\StarEdit\StarEditor\obj\Debug\StarEditor.NewProject.resources
+C:\AndroidProjects\StarlitEmpire1\starlitempireep1\StarEdit\StarEditor\obj\Debug\StarEditor.ProjectInfo.resources

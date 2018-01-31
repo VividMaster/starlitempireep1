@@ -11,11 +11,11 @@ using System.IO;
 
 namespace StarEditor
 {
-    public partial class NewProject : Form
+    public partial class ProjectInfo : Form
     {
         public static string IconPath = "";
         public static Bitmap IconBit = null;
-        public NewProject()
+        public ProjectInfo()
         {
             InitializeComponent();
         }
@@ -68,6 +68,54 @@ namespace StarEditor
             }
         }
 
+        public string GetName()
+        {
+            return ProjName.Text;
+        }
+
+        public string GetInfo()
+        {
+            return ProjInfo.Text;
+        }
+
+        public string GetAuthor()
+        {
+            return ProjAuthor.Text;
+        }
+        public string GetPath()
+        {
+            return ProjPath.Text;
+        }
+
+        public string GetIcon()
+        {
+            return IconPath;
+        }
+
+        public void SetName(string name)
+        {
+            ProjName.Text = name;
+        }
+
+        public void SetPath(string path)
+        {
+            ProjPath.Text = path;
+        }
+
+        public void SetInfo(string info)
+        {
+            ProjInfo.Text = info;
+        }
+        public void SetAuthor(string author)
+        {
+            ProjAuthor.Text = author;
+        }
+        public void SetIcon(string icon)
+        {
+            IconPath = icon;
+            IconBit = new Bitmap(icon);
+        }
+
         private void IconView_Paint(object sender, PaintEventArgs e)
         {
 
@@ -97,6 +145,11 @@ namespace StarEditor
             StarEdit.CreateProject(ProjName.Text, ProjAuthor.Text, ProjInfo.Text,ProjPath.Text,IconPath );
             Close();
             StarEdit.CurNewProject = null;
+        }
+
+        private void ProjectInfo_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

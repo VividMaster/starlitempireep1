@@ -37,13 +37,18 @@
             this.loadProjectToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripSeparator2 = new System.Windows.Forms.ToolStripSeparator();
             this.exitEditorToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.windowsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.projectInfoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.StarStat = new System.Windows.Forms.ToolStripStatusLabel();
             this.menuStrip1.SuspendLayout();
+            this.statusStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // menuStrip1
             // 
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.projectToolStripMenuItem});
+            this.projectToolStripMenuItem,
+            this.windowsToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(195, 24);
@@ -52,6 +57,8 @@
             // 
             // statusStrip1
             // 
+            this.statusStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.StarStat});
             this.statusStrip1.Location = new System.Drawing.Point(0, 562);
             this.statusStrip1.Name = "statusStrip1";
             this.statusStrip1.Size = new System.Drawing.Size(195, 22);
@@ -107,6 +114,27 @@
             this.exitEditorToolStripMenuItem.Text = "Exit Editor";
             this.exitEditorToolStripMenuItem.Click += new System.EventHandler(this.exitEditorToolStripMenuItem_Click);
             // 
+            // windowsToolStripMenuItem
+            // 
+            this.windowsToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.projectInfoToolStripMenuItem});
+            this.windowsToolStripMenuItem.Name = "windowsToolStripMenuItem";
+            this.windowsToolStripMenuItem.Size = new System.Drawing.Size(68, 20);
+            this.windowsToolStripMenuItem.Text = "Windows";
+            // 
+            // projectInfoToolStripMenuItem
+            // 
+            this.projectInfoToolStripMenuItem.Name = "projectInfoToolStripMenuItem";
+            this.projectInfoToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.projectInfoToolStripMenuItem.Text = "Project Info";
+            this.projectInfoToolStripMenuItem.Click += new System.EventHandler(this.projectInfoToolStripMenuItem_Click);
+            // 
+            // StarStat
+            // 
+            this.StarStat.Name = "StarStat";
+            this.StarStat.Size = new System.Drawing.Size(76, 17);
+            this.StarStat.Text = "Project:None";
+            // 
             // StarEdit
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -126,6 +154,8 @@
             this.Text = "StarEdit";
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
+            this.statusStrip1.ResumeLayout(false);
+            this.statusStrip1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -142,6 +172,9 @@
         private System.Windows.Forms.ToolStripMenuItem loadProjectToolStripMenuItem;
         private System.Windows.Forms.ToolStripSeparator toolStripSeparator2;
         private System.Windows.Forms.ToolStripMenuItem exitEditorToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem windowsToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem projectInfoToolStripMenuItem;
+        private System.Windows.Forms.ToolStripStatusLabel StarStat;
     }
 }
 
