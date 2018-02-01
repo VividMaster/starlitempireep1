@@ -1,0 +1,6 @@
+C:\AndroidProjects\StarlitEmpire1\starlitempireep1\StarData\StarData\bin\Debug\StarData.dll
+C:\AndroidProjects\StarlitEmpire1\starlitempireep1\StarData\StarData\bin\Debug\StarData.pdb
+C:\AndroidProjects\StarlitEmpire1\starlitempireep1\StarData\StarData\obj\Debug\StarData.csprojResolveAssemblyReference.cache
+C:\AndroidProjects\StarlitEmpire1\starlitempireep1\StarData\StarData\obj\Debug\StarData.csproj.CoreCompileInputs.cache
+C:\AndroidProjects\StarlitEmpire1\starlitempireep1\StarData\StarData\obj\Debug\StarData.dll
+C:\AndroidProjects\StarlitEmpire1\starlitempireep1\StarData\StarData\obj\Debug\StarData.pdb
