@@ -11,5 +11,6 @@ namespace StarEngine
         public StarRender Render = null;
         public StarIO IO = null;
         public StarInput Input = null;
+        
     }
 }

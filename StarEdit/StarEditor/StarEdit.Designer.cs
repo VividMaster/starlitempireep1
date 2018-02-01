@@ -40,6 +40,7 @@
             this.windowsToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.projectInfoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.StarStat = new System.Windows.Forms.ToolStripStatusLabel();
+            this.statesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.statusStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -117,7 +118,8 @@
             // windowsToolStripMenuItem
             // 
             this.windowsToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.projectInfoToolStripMenuItem});
+            this.projectInfoToolStripMenuItem,
+            this.statesToolStripMenuItem});
             this.windowsToolStripMenuItem.Name = "windowsToolStripMenuItem";
             this.windowsToolStripMenuItem.Size = new System.Drawing.Size(68, 20);
             this.windowsToolStripMenuItem.Text = "Windows";
@@ -134,6 +136,13 @@
             this.StarStat.Name = "StarStat";
             this.StarStat.Size = new System.Drawing.Size(76, 17);
             this.StarStat.Text = "Project:None";
+            // 
+            // statesToolStripMenuItem
+            // 
+            this.statesToolStripMenuItem.Name = "statesToolStripMenuItem";
+            this.statesToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.statesToolStripMenuItem.Text = "States";
+            this.statesToolStripMenuItem.Click += new System.EventHandler(this.statesToolStripMenuItem_Click);
             // 
             // StarEdit
             // 
@@ -175,6 +184,7 @@
         private System.Windows.Forms.ToolStripMenuItem windowsToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem projectInfoToolStripMenuItem;
         private System.Windows.Forms.ToolStripStatusLabel StarStat;
+        private System.Windows.Forms.ToolStripMenuItem statesToolStripMenuItem;
     }
 }
 

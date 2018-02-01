@@ -10,3 +10,8 @@ C:\AndroidProjects\StarlitEmpire1\starlitempireep1\StarEdit\StarEditor\obj\Debug
 C:\AndroidProjects\StarlitEmpire1\starlitempireep1\StarEdit\StarEditor\obj\Debug\StarEditor.StarEdit.resources
 C:\AndroidProjects\StarlitEmpire1\starlitempireep1\StarEdit\StarEditor\obj\Debug\StarEditor.NewProject.resources
 C:\AndroidProjects\StarlitEmpire1\starlitempireep1\StarEdit\StarEditor\obj\Debug\StarEditor.ProjectInfo.resources
+C:\AndroidProjects\StarlitEmpire1\starlitempireep1\StarEdit\StarEditor\bin\Debug\StarData.dll
+C:\AndroidProjects\StarlitEmpire1\starlitempireep1\StarEdit\StarEditor\bin\Debug\StarData.pdb
+C:\AndroidProjects\StarlitEmpire1\starlitempireep1\StarEdit\StarEditor\obj\Debug\StarEditor.StateControl.resources
+C:\AndroidProjects\StarlitEmpire1\starlitempireep1\StarEdit\StarEditor\obj\Debug\StarEditor.StatesEdit.resources
+C:\AndroidProjects\StarlitEmpire1\starlitempireep1\StarEdit\StarEditor\obj\Debug\StarEditor.StateCine.resources

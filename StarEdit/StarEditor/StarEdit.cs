@@ -17,6 +17,7 @@ namespace StarEditor
         public static ProjectInfo CurProjectInfo = null;
         public static ActiveProject CurProj = null;
         public static StarEdit ActiveEdit = null;
+        public static StatesEdit CurStates = null;
         public static string LastProjectPath = "";
         public StarEdit()
         {
@@ -185,6 +186,21 @@ namespace StarEditor
 
         private void toolStripStatusLabel1_Click(object sender, EventArgs e)
         {
+
+        }
+
+        // States - Windows
+        private void statesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            if (CurStates != null)
+            {
+                CurStates.Close();
+                CurStates = null;
+            }
+            CurStates = new StatesEdit();
+            CurStates.Show();
+            CurStates.CurProj = CurProj;
+            CurStates.RebuildUI();
 
         }
     }
